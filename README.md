@@ -15,6 +15,8 @@ KANVAS follows a four-stage methodology:
 4. **EXPLAIN** – Interpret results with SHAP to reveal key skill indicators
 
 ---
+![KANvas Schema](https://raw.githubusercontent.com/dkavargy/KANVAS/be5954e26bef004c1a112ff523c13a4ed7685b35/genai_shema.png)
+
 
 ## 📁 Project Structure
 ```
