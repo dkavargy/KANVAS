@@ -1,4 +1,4 @@
-# KANvas: Kolmogorov–Arnold Network Versatile Algorithmic Solution  
+# KANVAS: Kolmogorov–Arnold Network Versatile Algorithmic Solution  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 **KANvas** is an open-source framework that classifies labor market job roles by distinguishing between traditional data science and GenAI-oriented positions. It leverages Kolmogorov–Arnold Networks (KANs) to provide an interpretable, compact, and effective classification model using skill-based inputs extracted from real-world job ads.
@@ -7,7 +7,7 @@
 
 ## 🔍 Overview
 
-KANvas follows a four-stage methodology:
+KANVAS follows a four-stage methodology:
 
 1. **COLLECT** – Scrape and clean job data from platforms like LinkedIn and Kariera.gr
 2. **CLASSIFY** – Use an LLM-based filter to label jobs as `modern` or `traditional`
