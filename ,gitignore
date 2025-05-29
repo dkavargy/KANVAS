@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+.env
+.venv
+*.env
+
+# PyTorch and model weights
+*.pt
+*.pth
+*.ckpt
+
+# Data files (you may choose to keep some sample CSVs)
+data/*.csv
+!data/README.md  # Keep instructions/sample notes
+
+# Results and plots
+results/*.png
+results/*.pdf
+results/*.txt
+
+# Logs and debug
+*.log
+*.out
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Colab-specific
+sample_data/
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# Pip or conda artifacts
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+dist/
+build/
