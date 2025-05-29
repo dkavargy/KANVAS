@@ -9,7 +9,7 @@
 
 KANVAS follows a four-stage methodology:
 
-1. **COLLECT** – Scrape and clean job data from platforms like LinkedIn and Kariera.gr
+1. **COLLECT** – Scrape and clean from online job ads
 2. **CLASSIFY** – Use an LLM-based filter to label jobs as `modern` or `traditional`
 3. **MODEL** – Train a Kolmogorov–Arnold Network on sparse multi-hot encoded skill vectors
 4. **EXPLAIN** – Interpret results with SHAP to reveal key skill indicators
